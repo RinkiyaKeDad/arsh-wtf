@@ -1,0 +1,4 @@
+baseURL = 'https://arshpersonalblog.netlify.app/'
+languageCode = 'en-us'
+title = "Arsh's Blog"
+theme = 'ananke'
