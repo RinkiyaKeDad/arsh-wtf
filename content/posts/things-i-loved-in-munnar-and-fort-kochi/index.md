@@ -2,6 +2,7 @@
 title: Things I Loved in Munnar and Fort Kochi
 date: 2024-02-29T17:19:03.943Z
 image: thumbnail.png
+featured_image: thumbnail.png
 tags:
   - travel
 ---
