@@ -1,5 +1,13 @@
 baseURL = 'https://arsh.wtf/'
 languageCode = 'en-us'
-title = "Arsh's Blog"
+title = "arsh.wtf"
 theme = 'ananke'
 googleAnalytics = 'G-R77ZJCH1Q4'
+Paginate = 5
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/RinkiyaKeDad"
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@rinkiyakedad"
