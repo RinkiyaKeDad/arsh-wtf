@@ -2,4 +2,6 @@ baseURL = 'https://arsh.wtf/'
 languageCode = 'en-us'
 title = "Arsh's Blog"
 theme = 'ananke'
-googleAnalytics = 'G-R77ZJCH1Q4'
+[services]
+  [services.googleAnalytics]
+    ID = 'G-R77ZJCH1Q4'
