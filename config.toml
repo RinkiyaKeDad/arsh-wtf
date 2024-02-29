@@ -1,4 +1,4 @@
-baseURL = 'https://arshpersonalblog.netlify.app/'
+baseURL = 'https://arsh.wtf/'
 languageCode = 'en-us'
 title = "Arsh's Blog"
 theme = 'ananke'
