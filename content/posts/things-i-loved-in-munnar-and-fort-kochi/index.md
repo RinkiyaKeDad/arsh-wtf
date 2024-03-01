@@ -38,7 +38,7 @@ I took the route to the Mattupetty Dam and Echo Point. While at Mattupetty, I sp
 
 The kayaking experience was a bit scarier than I expected, but that's what made it fun! The boat was so close to the water, which added to the thrill. In a paddle boat, there’s still some height from the water surface, but this boat I was in was JUST SO close that it felt very scary! Definitely a must-do.
 
-## Banachips and Chocolates!
+## Banana Chips and Chocolates!
 
 Munnar is filled with small and big shops selling homemade chocolates. I won't lie, I was definitely considering leaving some clothes to make room in my bag for more of these to take home.
 
