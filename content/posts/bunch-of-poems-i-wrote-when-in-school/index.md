@@ -10,8 +10,6 @@ I used to write silly little poems when I was in school. Wanted to save them som
 
 Some of them are pretty cringe, proceed with caution xD
 
-
-
 # Just A Wall
 
 I am standing here,
@@ -51,8 +49,6 @@ You don’t know what its like being non-divisible.
 You don’t know what its like being hit by a ball,
 
 You don’t know what its like being a wall.
-
-
 
 # A Poetic Tribute To Fullmetal Alchemist
 
@@ -97,6 +93,12 @@ Just remember all is one and one is all.
 
 
 > Teenage and the desire to sound wiser than you are xD
+
+# The Secret Of Life
+
+The thing they didn’t tell you,
+
+When you were growing up,
 
 Was that life may never be good,
 
@@ -160,8 +162,6 @@ Don’t care what they say,
 
 Just never give up.
 
-
-
 # The Secret Of Happiness
 
 Don’t make that sad face,
@@ -223,8 +223,6 @@ Then you’ll definitely find something,
 One you find it stick to it like glue,
 
 Because its something you have to do, can do, and like to do.
-
-
 
 # The Secret Of Victory
 
