@@ -12,12 +12,9 @@ Some of them are pretty cringe, proceed with caution xD
 
 # Just A Wall
 
-I am standing here,
-
-But still in no ones notice.
-
-I am in the pic,
-
+I am standing here,\
+But still in no ones notice.\
+I am in the pic,\
 But out of focus.
 
 
