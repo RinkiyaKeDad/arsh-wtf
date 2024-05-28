@@ -1,6 +1,6 @@
 ---
 title: 3 Lessons From Ted Lasso You Can Apply To Startups
-date: 2024-05-28T17:59:00.000Z
+date: 2024-05-28T00:02:00.000Z
 image: 3-lessons.png
 featured_image: 3-lessons.png
 tags:
