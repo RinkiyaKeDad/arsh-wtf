@@ -1,6 +1,6 @@
 ---
 title: Things About Managing Money I Wish I Knew Earlier
-date: 2024-07-06T12:26:00.000Z
+date: 2024-07-06T09:29:00.000Z
 image: group-1.png
 featured_image: group-1.png
 tags:
