@@ -1,8 +1,8 @@
 ---
 title: Things About Managing Money I Wish I Knew Earlier
 date: 2024-07-05T03:30:00.000Z
-image: group-1.png
-featured_image: group-1.png
+image: updated.png
+featured_image: updated.png
 tags:
   - finance
 ---
