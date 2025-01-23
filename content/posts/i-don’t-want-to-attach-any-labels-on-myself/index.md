@@ -4,7 +4,7 @@ date: 2024-07-22T11:29:00.000Z
 image: blog-thumbnail.png
 featured_image: blog-thumbnail.png
 tags:
-  - life
+  - philosophy
 ---
 I used to believe that I don’t need people. Or communities. That one can be alone and still be content. I no longer believe that. I think our brains are hardwired to find a sense of belonging, a community, and we can’t be happy without that. And it can be hard. For me, finding people who were like me, who had the same interests, was hard. That’s why I guess, as a coping mechanism, I used to tell myself that I’m happier alone. But once you do find such people, you realize how much joy they bring to life.
 
