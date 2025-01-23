@@ -1,6 +1,6 @@
 ---
 title: To be (ambitious), or not to be
-date: 2025-01-23T20:48:00.000Z
+date: 2025-01-23T20:56:00.000Z
 image: thumbnail.png
 featured_image: thumbnail.png
 tags:
