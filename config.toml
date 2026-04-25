@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = "arsh.wtf"
 theme = 'ananke'
 googleAnalytics = 'G-R77ZJCH1Q4'
-Paginate = 5
+[pagination]
+pagerSize = 5
 
 [[params.ananke_socials]]
 name = "twitter"
