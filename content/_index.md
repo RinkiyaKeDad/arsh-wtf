@@ -1,4 +1,4 @@
 ---
-title: "My Personal Blog"
-description: "This will be very random. Strap in."
+title: "a personal blog in 2026?"
+description: "i dont have an insta and sometimes i want to yap so..."
 ---

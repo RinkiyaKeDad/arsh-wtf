@@ -9,6 +9,8 @@ tags:
 
 In June of this year, I spent 9 days across Milan, Rome, Naples, and the Amalfi Coast. This is partly a guide for anyone planning a similar route, and partly just something I want to be able to come back and read later.
 
+<!--more-->
+
 # Day 1: Arrival in Milan
 
 Reached Milan station and took the tram to the AirBnb I’d booked. The nice thing about Milan is that you can tap to pay with a card on public transport, which made things a lot easier. [The Airbnb](https://www.airbnb.co.in/rooms/1487647571022733802?guests=1&adults=1&s=67&unique_share_id=f670bce7-1cd2-4194-80f8-965e51072d8e) was comfortable and cozy, good enough for a stay for two people (me and my friend).
