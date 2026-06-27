@@ -1,0 +1,8 @@
+{{- /* Render Markdown images as <figure> with the alt text shown as a caption. */ -}}
+<figure class="mv4 tc">
+  <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"
+    {{- with .Title }} title="{{ . }}"{{ end }} class="db center mw-100" loading="lazy" />
+  {{- with .PlainText }}
+  <figcaption class="f6 i mid-gray mt2">{{ . }}</figcaption>
+  {{- end }}
+</figure>
