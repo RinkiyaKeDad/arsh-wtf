@@ -9,6 +9,8 @@ tags:
 
 In July and August of 2026 I spent a couple of weeks in Japan, starting in Kyoto and ending in Tokyo. This is a day-by-day record of what I did, partly for me so I can come back and reminisce on the trip, and partly for someone else who might be looking for recommendations to plan theirs :)
 
+<!--more-->
+
 # Thursday, 23rd July
 
 Landed at Haneda at 6:45 AM. Train to Shinagawa, then the Shinkansen to Kyoto. Checked in at Piece Hostel Sanjo.
