@@ -30,6 +30,7 @@ Guidance for working in this repo (arsh.wtf — a personal Hugo blog).
 - Front matter: `title`, `date`, `image` + `featured_image` (thumbnail in the bundle), and `tags`.
 - **Summary / preview** on the homepage and `/posts/` list comes from Hugo's `.Summary`. By default it auto-takes the first ~70 words, which can spill past the intro. Put a `<!--more-->` divider after the intro paragraph to control exactly where the preview ends (see `content/posts/italy-trip-2026/index.md`).
 - **Image captions**: write images as standard Markdown `![caption text](image.jpeg)`. The `render-image.html` hook turns the alt text into a visible caption automatically — no shortcode needed.
+- **Travel/trip posts**: follow `TRAVEL_POSTS.md` for structure, voice, images and thumbnail.
 
 ## Navigation & listing
 
